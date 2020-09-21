@@ -1,10 +1,15 @@
-.row {
+#row {
     display: flex;
-    width: 100%;
     justify-content: center;
+    margin: 0 auto;
 }
 
 .column {
-    flex: 33.33%;
+    flex: 33.3%;
     padding: 5px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
